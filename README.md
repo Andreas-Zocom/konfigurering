@@ -1,1 +1,1 @@
-# konfigurering
+# Konfigurering
